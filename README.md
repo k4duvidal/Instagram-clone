@@ -4,7 +4,7 @@
 
 ​	*utilizando somente HTML e CSS3*  :rocket:
 
-​	Esse projeto é um desafio da [digitalinnovation.one]() de recriar 
+​	Esse projeto é um desafio da [https://www.digitalinnovation.one]() 
 
 ## Descrição do Projeto
 
